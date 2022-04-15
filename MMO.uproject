@@ -8,6 +8,11 @@
 			"Name": "AdvancedRPGSystem",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e5dae4ba623f4af69e8a7bd7a153d1b1"
+		},
+		{
+			"Name": "LockOnTarget",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d58106fca28446ec88caad16c5a35fe8"
 		}
 	]
 }
